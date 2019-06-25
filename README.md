@@ -1,2 +1,3 @@
 # hello-world
-yes, i will try
+
+This is me, and I like to learn some crazy stuff.
